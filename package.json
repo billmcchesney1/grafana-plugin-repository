@@ -17,6 +17,6 @@
     "lodash": "^4.17.19",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "semver": "^5.4.1"
+    "semver": "^7.0.0"
   }
 }
